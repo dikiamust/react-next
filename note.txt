@@ -1,4 +1,12 @@
+source: https://www.youtube.com/watch?v=0rnVfshKqDI&t=93s
 
+next-typescript-tailwind: https://www.youtube.com/watch?v=DCTuw2P6DCU
+menit: 1jam
 
 CLI: 
 - npx create-next-app@latest --ts
+
+   "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/lab": "^5.0.0-alpha.98",
+    "@mui/material": "^5.10.0",
